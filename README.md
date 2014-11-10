@@ -11,3 +11,6 @@ ToDoList
 
 [Parse]
 (https://www.parse.com)
+
+[Medium post about AFNetworking on Swift]
+(https://medium.com/@aommiez/afnetwork-integrate-swfit-80514b545b40)
