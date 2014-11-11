@@ -17,3 +17,9 @@ ToDoList
 
 [Awesome compilation of Swift frameworks]
 (https://github.com/Wolg/awesome-swift)
+
+[PromiseKit]
+(https://github.com/mxcl/PromiseKit)
+
+[Swift Toolbox]
+(http://www.swifttoolbox.io)
