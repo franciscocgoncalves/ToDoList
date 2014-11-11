@@ -14,3 +14,6 @@ ToDoList
 
 [Medium post about AFNetworking on Swift]
 (https://medium.com/@aommiez/afnetwork-integrate-swfit-80514b545b40)
+
+[Awesome compilation of Swift frameworks]
+(https://github.com/Wolg/awesome-swift)
