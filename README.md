@@ -1,5 +1,8 @@
 ToDoList
 ========
+This is a tutorial app that I made for a SINFO workshop.
+
+#### Useful Links
 
 [Workshop presentation](https://www.icloud.com/keynote/AwBWCAESEKDG658Z5Wgv4zIDhkdrelkaKjL34xOCdSfZIkiX-cvp6gck_LeGgRvvg-ccjYB67Rbg7UroOYLANs-bAAMCUCAQEEIC1jSgg89CpdPwIkLejiWni72f76Oeyjc02JBam9NJB-#Swift-Apps-for-iOS)
 
